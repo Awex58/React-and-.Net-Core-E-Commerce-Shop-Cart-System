@@ -1,0 +1,16 @@
+.pagination {
+    display: inline-block;
+  }
+  
+  .page-item {
+    margin: 0 5px;
+    display: inline;
+  }
+  
+  .page-link {
+    color: #333;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    text-decoration: none;
+  }
+  
